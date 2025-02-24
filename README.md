@@ -4,6 +4,7 @@ Kevin Faza Rivano
 M. Hafidz Fadillah  
 Dea Kurniasih  
 
+
 Sentiment Analysis of Public Opinion on the Inauguration of the President and Vice President Based on Social Media (YouTube) Using Natural Language Processing (NLP) techniques, this project classifies sentiment into positive, negative, and neutral categories while identifying dominant words in public discussions.
 
 Analysis Results:
