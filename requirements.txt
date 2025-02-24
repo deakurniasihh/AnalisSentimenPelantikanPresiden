@@ -1,0 +1,10 @@
+flask
+pandas[minimal]
+google-api-python-client
+wordcloud
+matplotlib
+pillow
+numpy
+seaborn
+python-dotenv
+gunicorn
