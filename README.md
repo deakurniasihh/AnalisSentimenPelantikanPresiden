@@ -1,6 +1,10 @@
-Sentiment Analysis of Public Opinion on the Inauguration of the President and Vice President Based on Social Media (YouTube) Data
+This project was created by a team:
+Farid Nurtaufiq
+Kevin Faza Rivano 
+M. Hafidz Fadillah 
+Dea Kurniasih 
 
-Using Natural Language Processing (NLP) techniques, this project classifies sentiment into positive, negative, and neutral categories while identifying dominant words in public discussions.
+Sentiment Analysis of Public Opinion on the Inauguration of the President and Vice President Based on Social Media (YouTube) Using Natural Language Processing (NLP) techniques, this project classifies sentiment into positive, negative, and neutral categories while identifying dominant words in public discussions.
 
 Analysis Results:
 
@@ -22,3 +26,7 @@ Technology Used:
 
 Objective:
 Provide insights for the government and relevant stakeholders to understand public perception and support better decision-making.
+
+Preference :
+Link Youtube
+https://www.youtube.com/watch?v=3YMlecD1nQ0
