@@ -20,9 +20,10 @@ Analysis Results:
 
 20.0% Neutral – Represents an objective stance. 
 
-Key Words: president, Prabowo 
+Top Key Words: president 
 
 Technology Used: 
+
 ✅ Python 
 
 ✅ Data preprocessing (case folding, cleaning, tokenizing, stopword removal, stemming) 
